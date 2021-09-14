@@ -1,0 +1,15 @@
+.container-shop {
+  display: flex;
+  height: 150px;
+  padding: 20px 0px;
+}
+
+.container-shop__img {
+  flex-grow: 1;
+}
+
+.container-shop__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}

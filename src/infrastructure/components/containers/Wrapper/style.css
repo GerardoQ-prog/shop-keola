@@ -1,0 +1,24 @@
+.wrapper{
+    max-width: 1440px;
+    margin: auto;
+    padding: 20px;
+}
+
+.wrapper__shop{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.wrapper__title{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.wrapper-product{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
